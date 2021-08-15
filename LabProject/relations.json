@@ -1,0 +1,386 @@
+[
+  {
+    "scheduleid": 1,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 1,
+    "timingid": 1
+  },
+  {
+    "scheduleid": 2,
+    "labid": 5,
+    "courseid": 3,
+    "facultyid": 3,
+    "daynumber": 2,
+    "timingid": 1
+  },
+  {
+    "scheduleid": 3,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 3,
+    "timingid": 1
+  },
+  {
+    "scheduleid": 4,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 4,
+    "timingid": 1
+  },
+  {
+    "scheduleid": 5,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 5,
+    "timingid": 1
+  },
+  {
+    "scheduleid": 6,
+    "labid": 5,
+    "courseid": 11,
+    "facultyid": 9,
+    "daynumber": 6,
+    "timingid": 1
+  },
+  {
+    "scheduleid": 7,
+    "labid": 5,
+    "courseid": 1,
+    "facultyid": 1,
+    "daynumber": 1,
+    "timingid": 2
+  },
+  {
+    "scheduleid": 8,
+    "labid": 5,
+    "courseid": 3,
+    "facultyid": 3,
+    "daynumber": 2,
+    "timingid": 2
+  },
+  {
+    "scheduleid": 9,
+    "labid": 5,
+    "courseid": 6,
+    "facultyid": 6,
+    "daynumber": 3,
+    "timingid": 2
+  },
+  {
+    "scheduleid": 10,
+    "labid": 5,
+    "courseid": 8,
+    "facultyid": 7,
+    "daynumber": 4,
+    "timingid": 2
+  },
+  {
+    "scheduleid": 11,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 5,
+    "timingid": 2
+  },
+  {
+    "scheduleid": 12,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 6,
+    "timingid": 2
+  },
+  {
+    "scheduleid": 13,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 1,
+    "timingid": 3
+  },
+  {
+    "scheduleid": 14,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 2,
+    "timingid": 3
+  },
+  {
+    "scheduleid": 15,
+    "labid": 5,
+    "courseid": 7,
+    "facultyid": 7,
+    "daynumber": 3,
+    "timingid": 3
+  },
+  {
+    "scheduleid": 16,
+    "labid": 5,
+    "courseid": 9,
+    "facultyid": 8,
+    "daynumber": 4,
+    "timingid": 3
+  },
+  {
+    "scheduleid": 17,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 5,
+    "timingid": 3
+  },
+  {
+    "scheduleid": 18,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 6,
+    "timingid": 3
+  },
+  {
+    "scheduleid": 19,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 1,
+    "timingid": 4
+  },
+  {
+    "scheduleid": 20,
+    "labid": 5,
+    "courseid": 4,
+    "facultyid": 4,
+    "daynumber": 2,
+    "timingid": 4
+  },
+  {
+    "scheduleid": 21,
+    "labid": 5,
+    "courseid": 7,
+    "facultyid": 7,
+    "daynumber": 3,
+    "timingid": 4
+  },
+  {
+    "scheduleid": 22,
+    "labid": 5,
+    "courseid": 9,
+    "facultyid": 8,
+    "daynumber": 4,
+    "timingid": 4
+  },
+  {
+    "scheduleid": 23,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 5,
+    "timingid": 4
+  },
+  {
+    "scheduleid": 24,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 6,
+    "timingid": 4
+  },
+  {
+    "scheduleid": 25,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 1,
+    "timingid": 5
+  },
+  {
+    "scheduleid": 26,
+    "labid": 5,
+    "courseid": 5,
+    "facultyid": 5,
+    "daynumber": 2,
+    "timingid": 5
+  },
+  {
+    "scheduleid": 27,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 3,
+    "timingid": 5
+  },
+  {
+    "scheduleid": 28,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 4,
+    "timingid": 5
+  },
+  {
+    "scheduleid": 29,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 5,
+    "timingid": 5
+  },
+  {
+    "scheduleid": 30,
+    "labid": 5,
+    "courseid": 12,
+    "facultyid": 10,
+    "daynumber": 6,
+    "timingid": 5
+  },
+  {
+    "scheduleid": 31,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 1,
+    "timingid": 6
+  },
+  {
+    "scheduleid": 32,
+    "labid": 5,
+    "courseid": 5,
+    "facultyid": 5,
+    "daynumber": 2,
+    "timingid": 6
+  },
+  {
+    "scheduleid": 33,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 3,
+    "timingid": 6
+  },
+  {
+    "scheduleid": 34,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 4,
+    "timingid": 6
+  },
+  {
+    "scheduleid": 35,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 5,
+    "timingid": 6
+  },
+  {
+    "scheduleid": 36,
+    "labid": 5,
+    "courseid": 12,
+    "facultyid": 10,
+    "daynumber": 6,
+    "timingid": 6
+  },
+  {
+    "scheduleid": 37,
+    "labid": 5,
+    "courseid": 2,
+    "facultyid": 2,
+    "daynumber": 1,
+    "timingid": 7
+  },
+  {
+    "scheduleid": 38,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 2,
+    "timingid": 7
+  },
+  {
+    "scheduleid": 39,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 3,
+    "timingid": 7
+  },
+  {
+    "scheduleid": 40,
+    "labid": 5,
+    "courseid": 10,
+    "facultyid": 1,
+    "daynumber": 4,
+    "timingid": 7
+  },
+  {
+    "scheduleid": 41,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 5,
+    "timingid": 7
+  },
+  {
+    "scheduleid": 42,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 6,
+    "timingid": 7
+  },
+  {
+    "scheduleid": 43,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 1,
+    "timingid": 8
+  },
+  {
+    "scheduleid": 44,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 2,
+    "timingid": 8
+  },
+  {
+    "scheduleid": 45,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 3,
+    "timingid": 8
+  },
+  {
+    "scheduleid": 46,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 4,
+    "timingid": 8
+  },
+  {
+    "scheduleid": 47,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 5,
+    "timingid": 8
+  },
+  {
+    "scheduleid": 48,
+    "labid": 5,
+    "courseid": 0,
+    "facultyid": 0,
+    "daynumber": 6,
+    "timingid": 8
+  }
+]

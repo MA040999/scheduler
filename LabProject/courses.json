@@ -1,0 +1,86 @@
+[
+  {
+    "courseid": { "$numberInt": "3" },
+    "class": "BS CS Elective",
+    "name": "Web Engineering",
+    "facultyid": { "$numberInt": "3" },
+    "studentcount": { "$numberInt": "23" }
+  },
+  {
+    "courseid": { "$numberInt": "1" },
+    "class": "BSCS - 5F",
+    "name": "Web Technology",
+    "facultyid": { "$numberInt": "1" },
+    "studentcount": { "$numberInt": "37" }
+  },
+  {
+    "courseid": { "$numberInt": "2" },
+    "class": "BSCS - 3D",
+    "name": "STATA",
+    "facultyid": { "$numberInt": "2" },
+    "studentcount": { "$numberInt": "10" }
+  },
+  {
+    "courseid": { "$numberInt": "5" },
+    "class": "BSMS - 5B",
+    "name": "Radio Channel Project",
+    "facultyid": { "$numberInt": "5" },
+    "studentcount": { "$numberInt": "44" }
+  },
+  {
+    "courseid": { "$numberInt": "7" },
+    "class": "BEME - 3B",
+    "name": "Engg. Drawing",
+    "facultyid": { "$numberInt": "7" },
+    "studentcount": { "$numberInt": "21" }
+  },
+  {
+    "courseid": { "$numberInt": "4" },
+    "class": "BSCS - 3B",
+    "name": "Data Structure & Algorithm",
+    "facultyid": { "$numberInt": "4" },
+    "studentcount": { "$numberInt": "39" }
+  },
+  {
+    "courseid": { "$numberInt": "6" },
+    "class": "BSCS - 1C",
+    "name": "FOP",
+    "facultyid": { "$numberInt": "6" },
+    "studentcount": { "$numberInt": "39" }
+  },
+  {
+    "courseid": { "$numberInt": "8" },
+    "class": "BEME - 3A",
+    "name": "Engg. Drawing",
+    "facultyid": { "$numberInt": "7" },
+    "studentcount": { "$numberInt": "25" }
+  },
+  {
+    "courseid": { "$numberInt": "9" },
+    "class": "BABS - 1A",
+    "name": "Introduction to Computer",
+    "facultyid": { "$numberInt": "8" },
+    "studentcount": "47"
+  },
+  {
+    "courseid": { "$numberInt": "10" },
+    "class": "BSCS - 5A",
+    "name": "Web Technology",
+    "facultyid": { "$numberInt": "1" },
+    "studentcount": { "$numberInt": "12" }
+  },
+  {
+    "courseid": { "$numberInt": "11" },
+    "class": "BSCS - 4C",
+    "name": "Design & Creativity",
+    "facultyid": { "$numberInt": "9" },
+    "studentcount": { "$numberInt": "16" }
+  },
+  {
+    "courseid": { "$numberInt": "12" },
+    "class": "BEME - 4B",
+    "name": "Bio Statistics",
+    "facultyid": { "$numberInt": "10" },
+    "studentcount": { "$numberInt": "13" }
+  }
+]

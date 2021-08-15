@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### SETUP DATABASE
+
+.json files are available in the "LabProject" folder.
+
+Use these files to import data in the MongoDB database.
+
+The collection names should be the same as the .json file names.
+
 ## Available Scripts
 
 In the project directory, you can run:

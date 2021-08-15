@@ -1,0 +1,34 @@
+[
+  {
+    "timingid": 1,
+    "timeslot": "08:15 - 09:30"
+  },
+  {
+    "timingid": 2,
+    "timeslot": "09:30 - 10:45"
+  },
+  {
+    "timingid": 3,
+    "timeslot": "11:00 - 12:15"
+  },
+  {
+    "timingid": 4,
+    "timeslot": "12:15 - 1:30"
+  },
+  {
+    "timingid": 5,
+    "timeslot": "01:45 - 3:00"
+  },
+  {
+    "timingid": 6,
+    "timeslot": "3:00 - 4:15"
+  },
+  {
+    "timingid": 7,
+    "timeslot": "04:30 - 05:45"
+  },
+  {
+    "timingid": 8,
+    "timeslot": "05:45 - 07:00"
+  }
+]

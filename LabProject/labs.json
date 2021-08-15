@@ -1,0 +1,26 @@
+[
+  {
+    "labid": 1,
+    "labname": "CS - Lab"
+  },
+  {
+    "labid": 2,
+    "labname": "Smart - Lab"
+  },
+  {
+    "labid": 3,
+    "labname": "Lab 2"
+  },
+  {
+    "labid": 4,
+    "labname": "Lab 3"
+  },
+  {
+    "labid": 5,
+    "labname": "Lab 4"
+  },
+  {
+    "labid": 6,
+    "labname": "Lab 5"
+  }
+]
