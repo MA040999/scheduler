@@ -25,7 +25,7 @@
     "dev": "concurrently \"yarn run back-end\" \"yarn run front-end\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "start": "set NODE_ENV=production && node server.js",
+    "start": "node server.js",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
